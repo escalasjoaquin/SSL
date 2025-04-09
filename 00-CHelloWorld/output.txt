@@ -1,0 +1,3 @@
+PS C:\Users\Joa> cd 'c:\Users\Joa\Desktop\SySL\output'
+PS C:\Users\Joa\Desktop\SySL\output> & .\'hello.exe'
+Hello, World!
